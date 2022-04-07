@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  height: 868px;
+  width: 550px;
+  border-radius: 0px;
+  background-color: #23252c;
+  margin: auto;
+  border: 1px solid #23252c;
+}
+
+.card {
+  width: 317px;
+  height: 780px;
+  background: white;
+  margin: auto;
+  margin-top: 44px;
+
+  border-radius: 10px 10px 0 0;
+}
+.imageContainer {
+  border-radius: 10px 10px 0 0;
+}
+.imgSmall {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px 10px 0 0;
+}
